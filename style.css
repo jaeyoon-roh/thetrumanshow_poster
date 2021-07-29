@@ -1,0 +1,130 @@
+@import url(https://fonts.googleapis.com/earlyaccess/notosanskr.css);
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+
+body {
+  font-family: "Noto Sans KR", sans-serif;
+
+}
+
+.actor {
+  position: absolute;
+  color: rgb(206, 9, 9);
+  top: 40px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 12pt;
+  letter-spacing: 0;
+}
+
+.title {
+  position: absolute;
+  color: rgb(206, 9, 9);
+  top: 260px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 25pt;
+  letter-spacing: 5;
+}
+
+.pic01 {
+  position: absolute;
+  bottom: 55px;
+  left: 30px;
+  height: 110;
+}
+
+.pic02 {
+  position: absolute;
+  bottom: 60px;
+  left: 245px;
+  height: 135;
+}
+
+.pic03 {
+  position: absolute;
+  bottom: 98px;
+  left: 526px;
+  height: 73;
+}
+
+.pic04 {
+  position: absolute;
+  bottom: 92px;
+  left: 710px;
+  height: 115;
+}
+
+.pic05 {
+  position: absolute;
+  bottom: 62px;
+  left: 925px;
+  height: 82;
+}
+
+.pic06 {
+  position: absolute;
+  bottom: 80px;
+  left: 1120px;
+  height: 125;
+}
+
+.pic07 {
+  position: absolute;
+  bottom: 60px;
+  left: 1335px;
+  height: 90;
+}
+
+
+.tv {
+  position: relative;
+  bottom: 30px;
+}
+
+
+.tv01 {
+  position: absolute;
+  left: 20px;
+  height: 155;
+}
+
+.tv02 {
+  position: absolute;
+  left: 230px;
+  height: 185;
+}
+
+.tv03 {
+  position: absolute;
+  bottom: 40px;
+  left: 510px;
+  height: 150;
+}
+
+.tv04 {
+  position: absolute;
+  bottom: 40px;
+  left: 700px;
+  height: 185;
+}
+
+.tv05 {
+  position: absolute;
+  left: 890px;
+  height: 160;
+}
+
+.tv06 {
+  position: absolute;
+  left: 1100px;
+  height: 190;
+}
+
+.tv07 {
+  position: absolute;
+  bottom: 20px;
+  left: 1300px;
+  height: 160;
+}
